@@ -2,14 +2,14 @@
 
 ### Hi there 👋
 <br/>Sou apaixonado por programação e café. Se você é programador se identificará com um dos dois.
-<br/>Sempre gostei de tecnologia. Comecei a programar por conta própria pois via muito site que considerava ineficiente, então mergulhei nesse mundo. 
-<br/>Gosto de poder expor minha criatividade na criação de aplicações e sites, de ser testado, de ver um sistema funcionando. 
-<br/>O bom de programar é ter a resposta de forma rápida e eficiente, um quebra cabeças gostoso e revigorante baseado em café e código.
-
-<br/> Sou FullStack Developer, e cada dia na minha jornada aprendo novas coisas e amo isso.
-
+<br/>Sempre gostei de tecnologia. Comecei a programar por conta própria, gosto de poder expor minha criatividade na criação de aplicações e sites, de ser testado, de ver um sistema funcionando. 
 
 :floppy_disk:  &nbsp; Estou trabalhando como **FreeLancer** e além disso candidatando a vagas até obter o meu SIM.
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML e Javascript
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, Node.js, Javascript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games como: APEX LEGENDS e seriados no Netflix
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0N4T0)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=N0N4T0)](https://github.com/anuraghazra/github-readme-stats)
