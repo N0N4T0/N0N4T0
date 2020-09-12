@@ -9,4 +9,6 @@
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games como: APEX LEGENDS e seriados no Netflix
  
  
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0N4T0&layout=compact&theme=darcula)](https://github.com/N0N4T0/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=N0N4T0&show_icons=true&theme=darcula)
