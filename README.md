@@ -9,7 +9,7 @@
 </p>
  
 <p align="start">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0N4T0&layout=compact&theme=darcula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=N0N4T0&show_icons=true&theme=darcula" alt="languages" height="165"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0N4T0&layout=compact&theme=darcula" alt="my github stats" width="400"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=N0N4T0&show_icons=true&theme=darcula" alt="languages" height="165"/>
 </p>
 
 Continous learning about: 
