@@ -23,5 +23,8 @@ Continous learning about:
    <img src="https://icongr.am/devicon/postgresql-original.svg" width="25px" height="25px" alt="postgress"/>
    <img src="https://icongr.am/devicon/react-original.svg" width="25px" height="25px" alt="react"/>
    <img src="https://icongr.am/devicon/docker-original.svg" width="25px" height="25px" alt="docker"/>
+   <img src="https://icongr.am/devicon/java-original-wordmark.svg" width="25px" height="25px" alt="docker"/>
+   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg" width="25px" height="25px" alt="docker"/>
+   <img src="https://icongr.am/devicon/php-original.svg" width="25px" height="25px" alt="docker"/>
 </p>
 
