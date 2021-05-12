@@ -14,7 +14,7 @@
 
 Continous learning about: 
 <p align="start">
-   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px" alt="Github"/> 
+   <img src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" width="25px" height="25px" alt="Github"/>
    <img src="https://icongr.am/devicon/html5-original.svg" width="25px" height="25px" alt="html5"/>
    <img src="https://icongr.am/devicon/css3-original.svg" width="25px" height="25px" alt="css3"/>
    <img src="https://icongr.am/devicon/javascript-original.svg" width="25px" height="25px" alt="javascript"/>
