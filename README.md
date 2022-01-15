@@ -1,9 +1,20 @@
-# Hi, my name is Lúcio Nonato
+<h1 align="center">Hi, my name is Lúcio Nonato</h1>
 
 ### 
-<h3>Welcome!</h3>
-<p> :space_invader: In love with coffee and code.</p>
+<h3 align="center">Welcome!</h3>
+<p> :floppy_disk: Graduate in Computer Science - (UNIRUY) </p>
+<p> :hourglass_flowing_sand: Studying Science and Technology - (UFBA) </p>
+<p> :hammer_and_wrench: Frontend Developer </p>
+<p> :space_invader: You can also find me in the links below </p>
+
+<center>
   
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/N0N4T0)
+[![Site](https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github)](https://n0n4t0.github.io/lnoliveira/)
+---
+</center>
+  
+<h3>This is the result of my hard work</h3>  
 <p align="start"> 
    <img src="https://github-profile-trophy.vercel.app/?username=N0N4T0&&column=7&theme=onedark" alt="status"  />
 </p>
@@ -12,19 +23,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0N4T0&layout=compact&theme=darcula" alt="my github stats" width="380"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=N0N4T0&show_icons=true&theme=darcula" alt="languages" height="180"/>
 </p>
 
-Continous learning about: 
-<p align="start">
-   <img src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" width="25px" height="25px" alt="Github"/>
-   <img src="https://icongr.am/devicon/html5-original.svg" width="25px" height="25px" alt="html5"/>
-   <img src="https://icongr.am/devicon/css3-original.svg" width="25px" height="25px" alt="css3"/>
-   <img src="https://icongr.am/devicon/javascript-original.svg" width="25px" height="25px" alt="javascript"/>
-   <img src="https://icongr.am/devicon/git-original.svg" width="25px" height="25px" alt="git"/>
-   <img src="https://icongr.am/devicon/nodejs-original.svg" width="25px" height="25px" alt="nodejs"/>
-   <img src="https://icongr.am/devicon/postgresql-original.svg" width="25px" height="25px" alt="postgress"/>
-   <img src="https://icongr.am/devicon/react-original.svg" width="25px" height="25px" alt="react"/>
-   <img src="https://icongr.am/devicon/docker-original.svg" width="25px" height="25px" alt="docker"/>
-   <img src="https://icongr.am/devicon/java-original-wordmark.svg" width="25px" height="25px" alt="docker"/>
-   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg" width="25px" height="25px" alt="docker"/>
-   <img src="https://icongr.am/devicon/php-original.svg" width="25px" height="25px" alt="docker"/>
-</p>
+**Continous learning about**
+
 
