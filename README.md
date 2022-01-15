@@ -25,4 +25,17 @@
 
 **Continous learning about**
 
-
+![Git](https://img.shields.io/badge/-Git-000?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)  
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)  
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
+![LESS](https://img.shields.io/badge/-LESS-000000?style=flat&logo=less)  
+![JavaScript](https://img.shields.io/badge/-VanillaJS-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)  
+![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
+![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=React)
+![ReactNative](https://img.shields.io/badge/-React_Native-000?&logo=React)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-000000?&logo=postgresql&logoColor=336791)
+![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=mysql)  
