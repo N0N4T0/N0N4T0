@@ -37,7 +37,7 @@
 ![Node.js](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=3e863d)
 ![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-9c75d5?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue)
 ![VSCode](https://img.shields.io/badge/vscode-ffffff?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0076c6)
 ![PostgreSql](https://img.shields.io/badge/PostgreSql-3c6e96?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=blue)  
