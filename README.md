@@ -4,7 +4,7 @@
 <h3 align="center">Welcome!</h3>
 <p> :floppy_disk: Graduate in Computer Science - (UNIRUY) </p>
 <p> :hourglass_flowing_sand: Studying Science and Technology - (UFBA) </p>
-<p> :hammer_and_wrench: Frontend Developer </p>
+<p> :hammer_and_wrench: Full Stack Developer </p>
 <p> :space_invader: You can also find me in the links below </p>
 
 <center>
