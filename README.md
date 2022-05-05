@@ -1,18 +1,23 @@
 <h1 align="center">Hi, my name is Lúcio Nonato</h1>
 
 ### 
-<h3 align="center">Welcome!</h3>
-<p> :floppy_disk: Graduate in Computer Science - (UNIRUY) </p>
-<p> :hourglass_flowing_sand: Studying Science and Technology - (UFBA) </p>
-<p> :hammer_and_wrench: Full Stack Developer </p>
-<p> :space_invader: You can also find me in the links below </p>
+<div align="left"> 
+- :floppy_disk: Graduate in Computer Science - (UNIRUY) </p>
+- :hammer_and_wrench: Full Stack Developer </p>
+- :space_invader: Learning all day</p>
+</div> 
+&nbsp;
 
-<center>
-  
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/N0N4T0)
-[![Site](https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github)](https://n0n4t0.github.io/lnoliveira/)
----
-</center>
+## Contato
+<div>
+  <a href="https://www.linkedin.com/in/lucio-nonato/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://n0n4t0.github.io/lnoliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github">
+  </a>
+</div>  
+
   
 <h3>This is the result of my hard work</h3>  
 <p align="start"> 
