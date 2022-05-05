@@ -1,6 +1,7 @@
 <h1 align="center">Hi, my name is Lúcio Nonato</h1>
 
-### 
+<img align="right" alt="All-screens" height="180" width="370" src="./all-screen.gif">
+
 <div align="left"> 
 - :floppy_disk: Graduate in Computer Science - (UNIRUY) </p>
 - :hammer_and_wrench: Full Stack Developer </p>
@@ -8,7 +9,12 @@
 </div> 
 &nbsp;
 
-## Contato
+## 🔬 About
+<div>
+  Impulsionado por novos desafios, entrego minha experiência na obtenção de resultados.
+</div>  
+
+## Contact
 <div>
   <a href="https://www.linkedin.com/in/lucio-nonato/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -19,7 +25,25 @@
 </div>  
 
   
-<h3>This is the result of my hard work</h3>  
+## 🚀 My Skills
+<div style="display: inline_block">
+  <code><img align="center" alt="Lúcio-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">         </code>
+  <code><img align="center" alt="Lúcio-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">     </code>
+  <code><img align="center" alt="Lúcio-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img align="center" alt="Lúcio-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img align="center" alt="Lúcio-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+  <code><img align="center" alt="Lúcio-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"></code> 
+  <code><img align="center" alt="Lúcio-vanillajs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">     </code>
+  <code><img align="center" alt="Lúcio-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">   </code>
+  <code><img align="center" alt="Lúcio-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">   </code>
+  <code><img align="center" alt="Lúcio-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">   </code>
+  
+  <code><img align="center" alt="Lúcio-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   </code>
+  <code><img align="center" alt="Lúcio-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">   </code>
+  <code><img align="center" alt="Lúcio-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">   </code>
+  <code><img align="center" alt="Lúcio-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">   </code>
+</div> 
+
 <p align="start"> 
    <img src="https://github-profile-trophy.vercel.app/?username=N0N4T0&&column=7&theme=onedark" alt="status"  />
 </p>
@@ -28,21 +52,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0N4T0&layout=compact&theme=darcula" alt="my github stats" width="380"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=N0N4T0&show_icons=true&theme=darcula" alt="languages" height="180"/>
 </p>
 
-**Continous learning about**
+<!-- ![StyledComponents](https://img.shields.io/badge/styled--components-3c3c3c?style=for-the-badge&logo=styled-components&logoColor=DB7093) -->
 
-![Git](https://img.shields.io/badge/Git-e84d31?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/styled--components-3c3c3c?style=for-the-badge&logo=styled-components&logoColor=DB7093)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![LESS](https://img.shields.io/badge/LESS-1d365d?style=for-the-badge&logo=less&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/VanillaJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=3e863d)
-![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PYTHON](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue)
-![VSCode](https://img.shields.io/badge/vscode-ffffff?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0076c6)
-![PostgreSql](https://img.shields.io/badge/PostgreSql-3c6e96?style=for-the-badge&logo=postgresql&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=blue)  
+ 
