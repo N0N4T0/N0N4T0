@@ -6,6 +6,8 @@
 - :floppy_disk: Graduate in Computer Science - (UNIRUY) </p>
 - :hammer_and_wrench: Full Stack Developer </p>
 - :space_invader: Learning all day</p>
+
+![](https://komarev.com/ghpvc/?username=N0N4T0&style=for-the-badge)
 </div> 
 &nbsp;
 
@@ -52,6 +54,3 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0N4T0&layout=compact&theme=darcula" alt="my github stats" width="380"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=N0N4T0&show_icons=true&theme=darcula" alt="languages" height="180"/>
 </p>
 
-<!-- ![StyledComponents](https://img.shields.io/badge/styled--components-3c3c3c?style=for-the-badge&logo=styled-components&logoColor=DB7093) -->
-
- 
