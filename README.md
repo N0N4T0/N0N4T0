@@ -12,18 +12,17 @@
 &nbsp;
 
 ## 🔬 About
-<div>
-  Impulsionado por novos desafios, entrego minha experiência na obtenção de resultados.
-</div>  
+  I'm a Frontend Developer working at [Kinvo](https://github.com/kinvoapp)
+<br/>
 
 ## Contact
 <div>
   <a href="https://www.linkedin.com/in/lucio-nonato/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://n0n4t0.github.io/lnoliveira/" target="_blank">
+<!--   <a href="https://n0n4t0.github.io/lnoliveira/" target="_blank">
     <img src="https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github">
-  </a>
+  </a> -->
 </div>  
 
   
