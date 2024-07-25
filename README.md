@@ -12,7 +12,7 @@
 &nbsp;
 
 ## 🔬 About
-  I'm a Frontend Developer working at [Kinvo](https://github.com/kinvoapp)
+  I'm a Frontend Developer working at [Kinvo](https://www.kinvo.com.br)
 <br/>
 
 ## Contact
