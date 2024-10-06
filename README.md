@@ -10,12 +10,12 @@
 <br/>
 
 
-
+<!--
 ## 🔬 About
   I'm a Frontend Developer working at [Kinvo](https://www.kinvo.com.br)
 <br/>
 <br/>
-
+-->
  
 ## 🚀 My Skills
 <!--
